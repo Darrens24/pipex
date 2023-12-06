@@ -26,7 +26,7 @@ The Pipex project is part of the 42 school curriculum, designed to deepen unders
 
 ## Installation & Usage
 ```bash
-git clone [Your-Repo-Link]
+git clone git@github.com:Darrens24/pipex.git
 cd pipex
 make
 make bonus
